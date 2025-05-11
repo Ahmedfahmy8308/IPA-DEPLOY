@@ -1,0 +1,1 @@
+import{n as o,j as s,N as r}from"./index-NEmAdP4c.js";import{w as n}from"./withScreenSizeCheck-BpHXGx1I.js";import"./ScreenSizeWarning-DY_EP6UI.js";const u=({children:e})=>{const{session:t}=o();return!t||!t||t.role!=="Student"?s.jsx(r,{to:"/not-found",replace:!0}):e},c=n(u);export{c as default};
