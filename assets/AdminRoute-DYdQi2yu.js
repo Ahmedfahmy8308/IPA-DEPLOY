@@ -1,1 +1,0 @@
-import{n as t,j as r,N as s}from"./index-NEmAdP4c.js";import{w as n}from"./withScreenSizeCheck-BpHXGx1I.js";import"./ScreenSizeWarning-DY_EP6UI.js";const i=({children:o})=>{const{session:e}=t();return!e||!e||e.role!=="Admin"&&e.role!=="SuperAdmin"?r.jsx(s,{to:"/not-found",replace:!0}):o},p=n(i);export{p as default};
