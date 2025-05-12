@@ -1,1 +1,0 @@
-import{r,j as n}from"./index-MCFfI99p.js";import c from"./ScreenSizeWarning-Cmg7Y8ru.js";const m=t=>s=>{const[i,o]=r.useState(!1);return r.useEffect(()=>{const e=()=>{o(window.innerWidth<1024)};return e(),window.addEventListener("resize",e),()=>window.removeEventListener("resize",e)},[]),i?n.jsx(c,{}):n.jsx(t,{...s})};export{m as w};
